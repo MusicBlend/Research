@@ -13,3 +13,5 @@
 ### Authorization and Authentication
 ### What methods can be used to ensure security
 ###	What is the best practice for security in SSO solutions with React
+
+![Image of flow](https://developer.spotify.com/assets/AuthG_AuthoriztionCode.png)

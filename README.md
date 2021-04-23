@@ -9,7 +9,6 @@
 * ###	What is the best practice for security in SSO solutions with React
   * #### Options to save tokens
   * #### Security after Authorization
-  * 
 ### Authorization and Authentication
 
 
